@@ -1,0 +1,319 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1008px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3.75rem;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+  font-weight: 700;
+  margin: 60px auto 0;
+}
+
+.u-section-1 .u-list-1 {
+  margin-top: 93px;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-repeater-1 {
+  grid-template-columns: 50% 50%;
+  min-height: 600px;
+  grid-gap: 0px 0px;
+}
+
+.u-section-1 .u-list-item-1 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-1 .u-image-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("images/cctv-security-technology-with-lock-icon-digital-remix.jpg");
+  background-position: 14.61% 50%;
+  width: calc(100% + 50px);
+  left: -50px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 30px 0;
+}
+
+.u-section-1 .u-text-2 {
+  text-transform: uppercase;
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 97px 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-style: normal;
+  font-weight: normal;
+  margin: 12px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  font-weight: 700;
+  font-size: 0.875rem;
+  letter-spacing: 0px;
+  text-transform: uppercase;
+  margin: 18px auto 0 0;
+  padding: 0;
+}
+
+.u-section-1 .u-list-item-2 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-1 .u-image-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("images/being-security-conscious-cropped-rear-view-young-african-american-businessman-scanning-his-finger-gain-entry-building.jpg");
+  width: calc(100% + 50px);
+  left: -50px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 30px 0;
+}
+
+.u-section-1 .u-text-4 {
+  text-transform: uppercase;
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 97px 0 0;
+}
+
+.u-section-1 .u-text-5 {
+  font-style: normal;
+  font-weight: normal;
+  margin: 12px 0 0;
+}
+
+.u-section-1 .u-btn-2 {
+  font-weight: 700;
+  font-size: 0.875rem;
+  letter-spacing: 0px;
+  text-transform: uppercase;
+  margin: 18px auto 0 0;
+  padding: 0;
+}
+
+.u-section-1 .u-list-item-3 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-1 .u-image-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("images/businessman-with-denied-access.jpg");
+  background-position: 70.73% 50%;
+  width: calc(100% + 50px);
+  left: -50px;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px 30px 0;
+}
+
+.u-section-1 .u-text-6 {
+  text-transform: uppercase;
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 97px 0 0;
+}
+
+.u-section-1 .u-text-7 {
+  font-style: normal;
+  font-weight: normal;
+  margin: 12px 0 0;
+}
+
+.u-section-1 .u-btn-3 {
+  font-weight: 700;
+  font-size: 0.875rem;
+  letter-spacing: 0px;
+  text-transform: uppercase;
+  margin: 18px auto 0 0;
+  padding: 0;
+}
+
+.u-section-1 .u-list-item-4 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-1 .u-image-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("images/young-male-agent-secret-service-watching-record-crime-hotel-lounge.jpg");
+  width: calc(100% + 50px);
+  left: -50px;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 30px 30px 0;
+}
+
+.u-section-1 .u-text-8 {
+  text-transform: uppercase;
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 97px 0 0;
+}
+
+.u-section-1 .u-text-9 {
+  font-style: normal;
+  font-weight: normal;
+  margin: 12px 0 0;
+}
+
+.u-section-1 .u-btn-4 {
+  font-weight: 700;
+  font-size: 0.875rem;
+  letter-spacing: 0px;
+  text-transform: uppercase;
+  margin: 18px auto 0 0;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 747px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    min-height: 495px;
+  }
+
+  .u-section-1 .u-list-item-1 {
+    background-position: 14.61% 50%;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: auto;
+  }
+
+  .u-section-1 .u-list-item-2 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: auto;
+  }
+
+  .u-section-1 .u-list-item-3 {
+    background-position: 70.73% 50%;
+  }
+
+  .u-section-1 .u-image-3 {
+    width: auto;
+  }
+
+  .u-section-1 .u-list-item-4 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-image-4 {
+    width: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: 100%;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 2247px;
+  }
+
+  .u-section-1 .u-list-1 {
+    margin-top: 72px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 318px;
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: 318px;
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-top: 318px;
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-text-8 {
+    margin-top: 318px;
+    font-size: 1.875rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1695px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.5rem;
+    margin-top: 141px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-1 .u-text-4 {
+    font-size: 1.5rem;
+    margin-top: 141px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-1 .u-text-6 {
+    font-size: 1.5rem;
+    margin-top: 141px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-1 .u-text-8 {
+    font-size: 1.5rem;
+    margin-top: 141px;
+  }
+}
