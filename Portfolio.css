@@ -657,6 +657,7 @@
 .u-section-6 .u-image-1 {
   min-height: 402px;
   background-image: url("images/image1.png");
+  background-position: 50% 50%;
 }
 
 .u-section-6 .u-container-layout-1 {
@@ -1275,12 +1276,12 @@
 }
 
 .u-section-11 .u-sheet-1 {
-  min-height: 506px;
+  min-height: 581px;
 }
 
 .u-section-11 .u-layout-wrap-1 {
   margin-top: 57px;
-  margin-bottom: 60px;
+  margin-bottom: 0;
   --animation-custom_in-translate_x: -200px;
   --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
@@ -1331,9 +1332,15 @@
   font-weight: 400;
 }
 
+.u-section-11 .u-custom-html-1 {
+  height: auto;
+  min-height: 28px;
+  margin: 30px 0 50px 1126px;
+}
+
 @media (max-width: 1199px) {
   .u-section-11 .u-sheet-1 {
-    min-height: 694px;
+    min-height: 519px;
   }
 
   .u-section-11 .u-image-1 {
@@ -1349,11 +1356,15 @@
   .u-section-11 .u-text-1 {
     font-weight: 400;
   }
+
+  .u-section-11 .u-custom-html-1 {
+    margin-left: 926px;
+  }
 }
 
 @media (max-width: 991px) {
   .u-section-11 .u-sheet-1 {
-    min-height: 1046px;
+    min-height: 773px;
   }
 
   .u-section-11 .u-image-1 {
@@ -1363,11 +1374,15 @@
   .u-section-11 .u-layout-cell-2 {
     min-height: 100px;
   }
+
+  .u-section-11 .u-custom-html-1 {
+    margin-left: 706px;
+  }
 }
 
 @media (max-width: 767px) {
   .u-section-11 .u-sheet-1 {
-    min-height: 865px;
+    min-height: 662px;
   }
 
   .u-section-11 .u-image-1 {
@@ -1383,11 +1398,15 @@
     padding-left: 10px;
     padding-right: 10px;
   }
+
+  .u-section-11 .u-custom-html-1 {
+    margin-left: 526px;
+  }
 }
 
 @media (max-width: 575px) {
   .u-section-11 .u-sheet-1 {
-    min-height: 664px;
+    min-height: 539px;
   }
 
   .u-section-11 .u-image-1 {
@@ -1397,4 +1416,27 @@
   .u-section-11 .u-text-1 {
     font-size: 1.5rem;
   }
+
+  .u-section-11 .u-custom-html-1 {
+    margin-left: 326px;
+  }
+}body{
+  background: #222
 }
+.whatsapp-ico{
+    fill: white;
+    width: 50px;
+    height: 50px;
+    padding: 3px;
+    background-color: #4dc247;
+    border-radius: 50%;
+    box-shadow: 2px 2px 6px rgba(0,0,0,0.4);
+    /* box-shadow: 2px 2px 11px rgba(0,0,0,0.7); */
+    position: fixed;
+    bottom: 20px;
+    right : 20px;
+    z-index: 10;
+}
+.whatsapp-ico:hover{
+    box-shadow: 2px 2px 11px rgba(0,0,0,0.7);
+} 

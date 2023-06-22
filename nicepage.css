@@ -42307,33 +42307,23 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-image-1 {
-    margin-left: 230px;
-  }
-
-  .u-footer .u-text-1 {
-    width: 540px;
-    margin-top: 63px;
-    margin-left: 0;
-    font-size: 1rem;
-  }
-
-  .u-footer .u-text-2 {
-    margin-left: 295px;
-  }
-}
-@media (max-width: 575px) {
-  .u-footer .u-image-1 {
     margin-left: auto;
   }
 
   .u-footer .u-text-1 {
-    width: 340px;
+    width: auto;
+    font-size: 1rem;
+    margin-top: 63px;
+    margin-left: 0;
   }
 
   .u-footer .u-text-2 {
-    margin-left: 95px;
+    width: 245px;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
+
 
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
