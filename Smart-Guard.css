@@ -3,7 +3,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 1023px;
+  min-height: 1016px;
 }
 
 .u-section-1 .u-text-1 {
@@ -80,7 +80,7 @@
 }
 
 .u-section-1 .u-list-1 {
-  margin-bottom: 60px;
+  margin-bottom: 0;
   margin-top: 41px;
 }
 
@@ -499,9 +499,15 @@
   right: 8px;
 }
 
+.u-section-1 .u-custom-html-1 {
+  height: auto;
+  min-height: 28px;
+  margin: 30px 0 35px 1125px;
+}
+
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1016px;
+    min-height: 941px;
   }
 
   .u-section-1 .u-text-1 {
@@ -536,11 +542,15 @@
     top: 31px;
     right: 3px;
   }
+
+  .u-section-1 .u-custom-html-1 {
+    margin-left: 925px;
+  }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1108px;
+    min-height: 858px;
   }
 
   .u-section-1 .u-text-1 {
@@ -573,11 +583,15 @@
     grid-auto-columns: calc(33.3333% - 6.66667px);
     grid-template-columns: calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px);
   }
+
+  .u-section-1 .u-custom-html-1 {
+    margin-left: 705px;
+  }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1413px;
+    min-height: 1406px;
   }
 
   .u-section-1 .u-text-1 {
@@ -615,11 +629,15 @@
     grid-auto-columns: calc(50% - 5px);
     grid-template-columns: calc(50% - 5px) calc(50% - 5px);
   }
+
+  .u-section-1 .u-custom-html-1 {
+    margin-left: 525px;
+  }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1533px;
+    min-height: 1139px;
   }
 
   .u-section-1 .u-text-1 {
@@ -650,4 +668,27 @@
   .u-section-1 .u-gallery-nav-2 {
     top: 89px;
   }
+
+  .u-section-1 .u-custom-html-1 {
+    margin-left: 325px;
+  }
+}body{
+  background: #222
+}
+.whatsapp-ico{
+    fill: white;
+    width: 50px;
+    height: 50px;
+    padding: 3px;
+    background-color: #4dc247;
+    border-radius: 50%;
+    box-shadow: 2px 2px 6px rgba(0,0,0,0.4);
+    /* box-shadow: 2px 2px 11px rgba(0,0,0,0.7); */
+    position: fixed;
+    bottom: 20px;
+    right : 20px;
+    z-index: 10;
+}
+.whatsapp-ico:hover{
+    box-shadow: 2px 2px 11px rgba(0,0,0,0.7);
 }
