@@ -846,6 +846,546 @@
   .u-section-1-5 .u-btn-1 {
     margin-top: 48px;
   }
+}
+
+ .u-section-1-6 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/system-administrator-standing-server-room-smiling-camera.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1-6 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-1-6 .u-group-1 {
+  min-height: 513px;
+  height: auto;
+  width: 583px;
+  margin: 60px auto 60px 11px;
+}
+
+.u-section-1-6 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1-6 .u-text-1 {
+  text-transform: uppercase;
+  font-weight: 700;
+  line-height: 0.92;
+  font-size: 4.5rem;
+  margin: 185px 23px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-6 .u-sheet-1 {
+    min-height: 660px;
+  }
+
+  .u-section-1-6 .u-group-1 {
+    background-position: 100% 50%;
+    height: auto;
+  }
+
+  .u-section-1-6 .u-text-1 {
+    font-size: 3.75rem;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-6 .u-sheet-1 {
+    min-height: 608px;
+  }
+
+  .u-section-1-6 .u-group-1 {
+    background-position: 71.36% 50%;
+    width: 523px;
+    margin-bottom: 29px;
+  }
+
+  .u-section-1-6 .u-text-1 {
+    width: auto;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-6 .u-sheet-1 {
+    min-height: 455px;
+  }
+
+  .u-section-1-6 .u-group-1 {
+    min-height: 409px;
+    width: 560px;
+    margin: 23px -10px;
+  }
+
+  .u-section-1-6 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1-6 .u-text-1 {
+    font-size: 3rem;
+    width: 414px;
+    margin-top: 3px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-6 .u-sheet-1 {
+    min-height: 463px;
+  }
+
+  .u-section-1-6 .u-group-1 {
+    min-height: 414px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1-6 .u-text-1 {
+    font-size: 1.5rem;
+    width: auto;
+    margin-top: 195px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+ .u-section-1-7 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/low-angle-portrait-young-african-american-data-engineer-working-with-supercomputer-server-room-lit-by-blue-light-holding-laptop-copy-space.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1-7 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-1-7 .u-group-1 {
+  min-height: 513px;
+  height: auto;
+  width: 583px;
+  margin: 60px auto 60px 11px;
+}
+
+.u-section-1-7 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1-7 .u-text-1 {
+  text-transform: uppercase;
+  font-weight: 700;
+  line-height: 0.92;
+  font-size: 4.5rem;
+  margin: 185px 23px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-7 .u-sheet-1 {
+    min-height: 660px;
+  }
+
+  .u-section-1-7 .u-group-1 {
+    background-position: 100% 50%;
+    height: auto;
+  }
+
+  .u-section-1-7 .u-text-1 {
+    font-size: 3.75rem;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-7 .u-sheet-1 {
+    min-height: 608px;
+  }
+
+  .u-section-1-7 .u-group-1 {
+    background-position: 71.36% 50%;
+    width: 523px;
+    margin-bottom: 29px;
+  }
+
+  .u-section-1-7 .u-text-1 {
+    width: auto;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-7 .u-sheet-1 {
+    min-height: 455px;
+  }
+
+  .u-section-1-7 .u-group-1 {
+    min-height: 409px;
+    width: 560px;
+    margin: 23px -10px;
+  }
+
+  .u-section-1-7 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1-7 .u-text-1 {
+    font-size: 3rem;
+    width: 414px;
+    margin-top: 3px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-7 .u-sheet-1 {
+    min-height: 463px;
+  }
+
+  .u-section-1-7 .u-group-1 {
+    min-height: 414px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1-7 .u-text-1 {
+    font-size: 1.5rem;
+    width: auto;
+    margin-top: 195px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+ .u-section-1-8 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/website-hosting-concept-with-cloud.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1-8 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-1-8 .u-group-1 {
+  min-height: 513px;
+  height: auto;
+  width: 583px;
+  margin: 60px auto 60px 11px;
+}
+
+.u-section-1-8 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1-8 .u-text-1 {
+  text-transform: uppercase;
+  font-weight: 700;
+  line-height: 0.92;
+  font-size: 4.5rem;
+  margin: 185px 23px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-8 .u-sheet-1 {
+    min-height: 660px;
+  }
+
+  .u-section-1-8 .u-group-1 {
+    background-position: 100% 50%;
+    height: auto;
+  }
+
+  .u-section-1-8 .u-text-1 {
+    font-size: 3.75rem;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-8 .u-sheet-1 {
+    min-height: 608px;
+  }
+
+  .u-section-1-8 .u-group-1 {
+    background-position: 71.36% 50%;
+    width: 523px;
+    margin-bottom: 29px;
+  }
+
+  .u-section-1-8 .u-text-1 {
+    width: auto;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-8 .u-sheet-1 {
+    min-height: 455px;
+  }
+
+  .u-section-1-8 .u-group-1 {
+    min-height: 409px;
+    width: 560px;
+    margin: 23px -10px;
+  }
+
+  .u-section-1-8 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1-8 .u-text-1 {
+    font-size: 3rem;
+    width: 414px;
+    margin-top: 3px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-8 .u-sheet-1 {
+    min-height: 463px;
+  }
+
+  .u-section-1-8 .u-group-1 {
+    min-height: 414px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1-8 .u-text-1 {
+    font-size: 1.5rem;
+    width: auto;
+    margin-top: 195px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+ .u-section-1-9 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/technician-orange-uniform-installing-video-surveillance-office-building.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1-9 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-1-9 .u-group-1 {
+  min-height: 513px;
+  height: auto;
+  width: 583px;
+  margin: 60px auto 60px 11px;
+}
+
+.u-section-1-9 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1-9 .u-text-1 {
+  text-transform: uppercase;
+  font-weight: 700;
+  line-height: 0.92;
+  font-size: 4.5rem;
+  margin: 185px 23px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-9 .u-sheet-1 {
+    min-height: 660px;
+  }
+
+  .u-section-1-9 .u-group-1 {
+    background-position: 100% 50%;
+    height: auto;
+  }
+
+  .u-section-1-9 .u-text-1 {
+    font-size: 3.75rem;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-9 .u-sheet-1 {
+    min-height: 608px;
+  }
+
+  .u-section-1-9 .u-group-1 {
+    background-position: 71.36% 50%;
+    width: 523px;
+    margin-bottom: 29px;
+  }
+
+  .u-section-1-9 .u-text-1 {
+    width: auto;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-9 .u-sheet-1 {
+    min-height: 455px;
+  }
+
+  .u-section-1-9 .u-group-1 {
+    min-height: 409px;
+    width: 560px;
+    margin: 23px -10px;
+  }
+
+  .u-section-1-9 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1-9 .u-text-1 {
+    font-size: 3rem;
+    width: 414px;
+    margin-top: 3px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-9 .u-sheet-1 {
+    min-height: 463px;
+  }
+
+  .u-section-1-9 .u-group-1 {
+    min-height: 414px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1-9 .u-text-1 {
+    font-size: 1.5rem;
+    width: auto;
+    margin-top: 195px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+ .u-section-1-10 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/server-repairman-checking-server-rack.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1-10 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-1-10 .u-group-1 {
+  min-height: 513px;
+  height: auto;
+  width: 583px;
+  margin: 60px auto 60px 11px;
+}
+
+.u-section-1-10 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1-10 .u-text-1 {
+  text-transform: uppercase;
+  font-weight: 700;
+  line-height: 0.92;
+  font-size: 4.5rem;
+  margin: 185px 23px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-10 .u-sheet-1 {
+    min-height: 660px;
+  }
+
+  .u-section-1-10 .u-group-1 {
+    background-position: 100% 50%;
+    height: auto;
+  }
+
+  .u-section-1-10 .u-text-1 {
+    font-size: 3.75rem;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-10 .u-sheet-1 {
+    min-height: 608px;
+  }
+
+  .u-section-1-10 .u-group-1 {
+    background-position: 71.36% 50%;
+    width: 523px;
+    margin-bottom: 29px;
+  }
+
+  .u-section-1-10 .u-text-1 {
+    width: auto;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-10 .u-sheet-1 {
+    min-height: 455px;
+  }
+
+  .u-section-1-10 .u-group-1 {
+    min-height: 409px;
+    width: 560px;
+    margin: 23px -10px;
+  }
+
+  .u-section-1-10 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1-10 .u-text-1 {
+    font-size: 3rem;
+    width: 414px;
+    margin-top: 3px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-10 .u-sheet-1 {
+    min-height: 463px;
+  }
+
+  .u-section-1-10 .u-group-1 {
+    min-height: 414px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1-10 .u-text-1 {
+    font-size: 1.5rem;
+    width: auto;
+    margin-top: 195px;
+    margin-left: 0;
+    margin-right: 0;
+  }
 } .u-section-2 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("images/WhatsAppImage2023-06-16at14.46.59.jpeg");
 }
@@ -1450,6 +1990,7 @@
   --animation-custom_in-scale: 0.3;
   font-weight: 700;
   line-height: 0.46;
+  letter-spacing: normal;
   margin: 74px auto 0 31px;
 }
 
@@ -1611,10 +2152,6 @@
 @media (max-width: 1199px) {
   .u-section-5 .u-sheet-1 {
     min-height: 926px;
-  }
-
-  .u-section-5 .u-text-1 {
-    letter-spacing: normal;
   }
 
   .u-section-5 .u-list-1 {
