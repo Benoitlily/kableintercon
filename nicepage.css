@@ -42213,8 +42213,8 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-image-1 {
-  width: 147px;
-  height: 64px;
+  width: 159px;
+  height: 69px;
   margin: 11px auto 0 0;
 }
 
@@ -42245,6 +42245,10 @@ a.u-link.u-text-hover-grey-90:hover {
   background-image: none;
 }
 @media (max-width: 1199px) {
+  .u-header .u-image-1 {
+    width: 159px;
+  }
+
   .u-header .u-menu-1 {
     width: auto;
   }
